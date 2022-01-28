@@ -9,18 +9,21 @@ use the command below to
 ### Inside Project Folder, run
     yarn install
 or
+    
     npm install
      
 ## run the project
 
     yarn start
 or
+    
     npm run
 
 ## build the project for static deplyment 
 
     yarn build
 or
+    
     npm run build
 
 # About the Project & more Information about CRA Tool
